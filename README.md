@@ -126,9 +126,10 @@ This experience taught me that preparation, self-awareness, and communication ar
 ## 5. 📬 CWORKPLACE ETIQUETTE
 
 ### 📂 Evidence
-- Submitted to: Telkom SA, Vodacom, MTN  
+  
 - Screenshot of submission confirmation:  
- <img width="1512" alt="Screenshot 2025-05-23 at 18 12 00" src="https://github.com/user-attachments/assets/d0b56418-2ad5-4307-84cc-2e0318f21e1b" />
+ <img width="1512" alt="Screenshot 2025-05-23 at 18 12 00" src="<<img width="1512" height="982" alt="Screenshot 2025-10-17 at 22 27 50" src="https://github.com/user-attachments/assets/3b586a7e-0911-4a11-848d-ecc0df3b0685" />
+
 
 ### 💬 Reflection (STAR Technique)
 **S**ituation: When I joined Plum Systems , I had to adopt to professional workplace standards including punctuality , dress code on days i would be told to come at work and collaboration norms
@@ -153,102 +154,3 @@ This portfolio reflects my readiness for the professional world through evidence
 **Final Year ICT in Communications Network student**  
 **Full-time student and IT Support Intern @ Plum Systems**
 
----
-
-# 👋 WELCOME TO MY DIGITAL PORTFOLIO
-
-I am a full-time student at **Cape Peninsula University of Technology (CPUT)**.  
-I am currently in my final year of studying **ICT in Communication Networks**, and I also serve as a full-time **IT Support Intern** @Plum Systems.
-
-## 1. 🎯 Career Counselling
-
-### 📂 Evidence
-- [Career Guidance Summary PDF] 
-- Screenshot from completed session:  
-  <img width="1512" alt="Screenshot 2025-05-23 at 17 53 52" src="https://github.com/user-attachments/assets/17fc0bc5-1218-474e-a29e-ab155a563f1e" />
-
-
-### 💬 Reflection (STAR Technique)
-**S**ituation: I attended a career counselling session so I can explore available tech paths that I can venture into.  
-**T**ask: I had to identify my potential career paths and values.  
-**A**ction: I completed a values assessment and participated in a one-on-one session.  
-**R**esult: I gained clarity on aligning my interests with careers in communication networks.
-
----
-
-## 2. 🔍 Skills and Interests
-
-### 📂 Evidence
-- Top 5 Skills: Troubleshooting, Teamwork, Networking, Public Speaking, Documentation  
-- [Skills Assessment Results]<img width="1512" alt="Screenshot 2025-05-23 at 18 06 05" src="https://github.com/user-attachments/assets/588eec55-1db6-4f3f-8e86-794d3f6db89d" />
-
-
-### 💬 Reflection (STAR Technique)
-**S**ituation: I was unsure of which technical and soft skills I was strongest in.  
-**T**ask: Complete a formal assessment and analyze feedback.  
-**A**ction: I took part in a self-assessment and peer review exercise.  
-**R**esult: I discovered that technical troubleshooting and effective communication were my strongest assets.
-
----
-
-## 3. 🧠 Personality Assessment
-
-### 📂 Evidence
-- My MBTI result: ISTJ (Introverted, Sensing, Thinking, Judging)  
-- [Personality Report]<img width="1512" alt="Screenshot 2025-05-23 at 18 09 29" src="https://github.com/user-attachments/assets/bca911ba-3540-4dcb-80cc-c469dee19b70" />
-
-
-### 💬 Reflection (STAR Technique)
-**S**ituation: I needed to understand how my personality might influence my career decisions.  
-**T**ask: Complete the MBTI and interpret the results.  
-**A**ction: I took the assessment and reviewed insights.  
-**R**esult: I learned that my structured and logical approach suits careers in systems analysis and telecom operations.
-
----
-
-## 4. 📝 Create a CV
-
-### 📂 Evidence
-- [My CV ]<img width="1512" alt="Screenshot 2025-05-23 at 23 19 23" src="https://github.com/user-attachments/assets/e1b1fc59-ff09-47a9-811c-d7a81acd61fc" />
-<img width="1512" alt="Screenshot 2025-05-23 at 23 28 04" src="https://github.com/user-attachments/assets/69166a6f-acbe-4971-b6d7-e90fe878e360" />
-<img width="1512" alt="Screenshot 2025-05-23 at 23 31 39" src="https://github.com/user-attachments/assets/c220a537-7675-4a95-8914-e413a08aab06" />
-
-
-
-
-
-
-### 💬 Reflection (STAR Technique)
-**S**ituation: I needed a professional CV to apply for internships.  
-**T**ask: Create and refine a CV tailored for network technician roles.  
-**A**ction: I compiled my education, certifications, and projects into a clear format.  
-**R**esult: I created a CV that aligns with my career goals and received positive feedback from a mentor.
-
----
-
-## 5. 📬 CV Submission
-
-### 📂 Evidence
-- Submitted to: Telkom SA, Vodacom, MTN  
-- Screenshot of submission confirmation:  
- <img width="1512" alt="Screenshot 2025-05-23 at 18 12 00" src="https://github.com/user-attachments/assets/d0b56418-2ad5-4307-84cc-2e0318f21e1b" />
-
-### 💬 Reflection (STAR Technique)
-**S**ituation: I was ready to submit my CV to potential employers.  
-**T**ask: Send my CV to at least three companies.  
-**A**ction: I applied via company portals and documented the process.  
-**R**esult: I received acknowledgment emails and one callback for an interview.
-
----
-
----
-
-## 🔗 Connect With Me
-
-📧 Email: asiphempambani63@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/  
-🎓 CPUT | ICT in Communication Networks | Class of 2025
-
-## 🧩 Conclusion
-
-This portfolio reflects my readiness for the professional world through evidence-based learning and structured reflection. Thank you for reviewing it.
