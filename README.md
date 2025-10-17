@@ -116,10 +116,10 @@ This experience taught me that preparation, self-awareness, and communication ar
 
 
 ### 💬 Reflection (STAR Technique)
-**S**ituation: I needed a professional CV to apply for internships.  
-**T**ask: Create and refine a CV tailored for network technician roles.  
-**A**ction: I compiled my education, certifications, and projects into a clear format.  
-**R**esult: I created a CV that aligns with my career goals and received positive feedback from a mentor.
+**S**ituation: I wanted to expand my proffessional network in the ICT industry whle compeleting my internship   
+**T**ask: Build and maintain a strong LinkedIn profile and connect with proffessionals relevant to my field   
+**A**ction:  optimized my LinkedIn headline shared my projects and connect with developers , recruiters and CPUT alumini's.  
+**R**esult: My connections that I have made grew my network and i got in contact with people in big companes that are willing to mentor me.
 
 ---
 
@@ -131,10 +131,10 @@ This experience taught me that preparation, self-awareness, and communication ar
  <img width="1512" alt="Screenshot 2025-05-23 at 18 12 00" src="https://github.com/user-attachments/assets/d0b56418-2ad5-4307-84cc-2e0318f21e1b" />
 
 ### 💬 Reflection (STAR Technique)
-**S**ituation: I was ready to submit my CV to potential employers.  
-**T**ask: Send my CV to at least three companies.  
-**A**ction: I applied via company portals and documented the process.  
-**R**esult: I received acknowledgment emails and one callback for an interview.
+**S**ituation: When I joined Plum Systems , I had to adopt to professional workplace standards including punctuality , dress code on days i would be told to come at work and collaboration norms
+**T**ask: Maintain professionalism and positive relationships in the workplace .  
+**A**ction: I arrived early for meetings, dressed approprietly , respectful deadlines , and practice good digital etiquette on platforms like Teams .  
+**R**esult: My colleagues described me as reliable and respectful . These habits strengthened my relationship with my team and we also built a strong trust .
 
 ---
 
