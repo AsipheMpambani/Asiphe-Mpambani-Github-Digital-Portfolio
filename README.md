@@ -20,7 +20,7 @@ I am currently in my final year of studying **ICT in Communication Networks**, a
 
 ### 📂 Evidence 
 - Screenshot from completed session:  
-  <img width="1512" alt="Screenshot 2025-05-23 at 17 53 52" src="<img width="1512" height="982" alt="Screenshot 2025-10-17 at 21 31 07" src="https://github.com/user-attachments/assets/c683cc92-5e1f-41fa-b5a1-21d3bfd5c164" />
+<img width="1512" height="982" alt="Screenshot 2025-10-17 at 21 31 07" src="https://github.com/user-attachments/assets/c683cc92-5e1f-41fa-b5a1-21d3bfd5c164" />
 
 
 
@@ -49,7 +49,7 @@ This activity taught me that good communication is more than just sharing inform
 
 ### 📂 Evidence
 - Top 5 Skills: Troubleshooting, Teamwork, Networking, Public Speaking, Documentation  
-- [Interview Skills Results]<img width="1512" alt="Screenshot 2025-05-23 at 18 06 05" src="<img width="1512" height="982" alt="Screenshot 2025-10-17 at 20 25 27" src="https://github.com/user-attachments/assets/8b3c0448-d9b4-4014-b564-758512dd5331" />
+- [Interview Skills Results]<img width="1512" height="982" alt="Screenshot 2025-10-17 at 20 25 27" src="https://github.com/user-attachments/assets/8b3c0448-d9b4-4014-b564-758512dd5331" />
 " />
 
 
@@ -96,7 +96,7 @@ To prepare, I practiced answering common interview questions using the **STAR me
 I also recorded my interview as part of the assessment, which is included in this folder for reference.
 
 🎥 **Mock Interview Recording:**  
-[View my mock interview video](./copy_4B86DB94-E528-4A9B-8E8C-0555E6A3DAAA.mov)
+[View my mock interview video](copy_4B86DB94-E528-4A9B-8E8C-0555E6A3DAAA.mov)
 
 ## **Result**
 The mock interview went well, and I received positive feedback for my clear communication and professionalism. I was also advised to provide more concise answers and maintain calm body language. This exercise boosted my confidence and gave me a realistic understanding of what to expect in real interviews.
@@ -128,7 +128,7 @@ This experience taught me that preparation, self-awareness, and communication ar
 ### 📂 Evidence
   
 - Screenshot of submission confirmation:  
- <img width="1512" alt="Screenshot 2025-05-23 at 18 12 00" src="<<img width="1512" height="982" alt="Screenshot 2025-10-17 at 22 27 50" src="https://github.com/user-attachments/assets/3b586a7e-0911-4a11-848d-ecc0df3b0685" />
+<img width="1512" height="982" alt="Screenshot 2025-10-17 at 22 27 50" src="https://github.com/user-attachments/assets/3b586a7e-0911-4a11-848d-ecc0df3b0685" />
 
 
 ### 💬 Reflection (STAR Technique)
